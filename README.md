@@ -13,12 +13,11 @@ If you'd like to support this project then please click on the Patreon logo and 
 * Zachary Davidson (THE PLAYER ZER0) -- Founder, Developer, Musician, Artist, Story Writer, 3D Modeler
 
 
-### Patreon [![Patreon][PatreonLogo]][PatreonLink]
+Check out my [![Patreon]][discordLink]
 
 [discordImg]: https://img.shields.io/discord/775528645086543895.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 
 [discordLink]: https://discord.gg/9fgW8jAaf6
 
-[PatreonLogo]: https://cdn.theplayerzero.com/assets/imgs/github/PatreonLogo.png
 
-[PatreonLink]: https://www.patreon.com/THEPLAYERZERO
+[PatreonLink]: https://www.patreon.com/GracieLovelight
