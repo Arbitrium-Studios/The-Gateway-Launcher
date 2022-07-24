@@ -1,4 +1,4 @@
-### Wishlist and Ideas:
+### Wishlist and Ideas for the T.U.G. Launcher:
 
     > Using whatever version of PLAYER ZER0 STUDIOS you download The Gateway from (i.e. from the English, Spanish, French, etc. versions of the website), the installer should be based on that same language it autoselected from
     > When you open the installer, it should give you a choice of what language to choose, from that it should default to which language you set it in.
