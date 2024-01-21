@@ -1,1 +1,14 @@
+# GitHub WILL Ignore these Folders:
+
 Stories/
+Build/
+
+# GitHub WILL Ignore these File Names:
+
+TODO.md
+
+# GitHub WILL Ignore these File Extensions:
+
+*.htaccess
+*.htpasswd
+*.pyc
